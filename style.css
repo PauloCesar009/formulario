@@ -1,0 +1,13 @@
+span{
+    font-size: 25px;
+    color: darkgreen;
+}
+
+h1{
+    text-align: center;
+    background-color: darkgreen;
+    color: chartreuse;
+}
+body{
+    background-color: rgb(234, 247, 211);
+}
